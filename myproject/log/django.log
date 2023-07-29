@@ -1,0 +1,19 @@
+INFO 2023-07-29 21:49:35,513 autoreload 13912 4592 Watching for file changes with StatReloader
+INFO 2023-07-29 21:49:38,006 views 13912 116 Main page accessed
+INFO 2023-07-29 21:49:38,012 basehttp 13912 116 "GET / HTTP/1.1" 200 14
+WARNING 2023-07-29 21:49:38,219 log 13912 116 Not Found: /favicon.ico
+WARNING 2023-07-29 21:49:38,222 basehttp 13912 116 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2023-07-29 21:49:44,250 views 13912 12916 About page accessed
+INFO 2023-07-29 21:49:44,251 basehttp 13912 12916 "GET /about/ HTTP/1.1" 200 13
+INFO 2023-07-29 22:59:19,999 autoreload 8956 8436 Watching for file changes with StatReloader
+INFO 2023-07-29 22:59:23,796 views 8956 10864 Main page accessed
+INFO 2023-07-29 22:59:23,813 basehttp 8956 10864 "GET / HTTP/1.1" 200 339
+WARNING 2023-07-29 22:59:24,273 basehttp 8956 10864 "GET /static/style.css HTTP/1.1" 404 1786
+INFO 2023-07-29 23:10:02,534 autoreload 12020 6268 Watching for file changes with StatReloader
+INFO 2023-07-29 23:10:05,418 views 12020 15220 Main page accessed
+INFO 2023-07-29 23:10:05,420 basehttp 12020 15220 "GET / HTTP/1.1" 200 364
+WARNING 2023-07-29 23:10:05,566 basehttp 12020 15220 "GET /static/style.css HTTP/1.1" 404 1786
+WARNING 2023-07-29 23:10:05,642 basehttp 12020 3284 "GET /static/style.css HTTP/1.1" 404 1786
+INFO 2023-07-29 23:10:19,009 views 12020 14224 About page accessed
+INFO 2023-07-29 23:10:19,010 basehttp 12020 14224 "GET /about/ HTTP/1.1" 200 398
+WARNING 2023-07-29 23:10:19,092 basehttp 12020 14224 "GET /static/style.css HTTP/1.1" 404 1786
